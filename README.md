@@ -67,10 +67,10 @@ To set up DeepSeek-API-Server on your local machine, follow these steps:
 
     Replace `your_deepseek_api_key` with your actual DeepSeek API key. To obtain your API key:
     
-    1. Create an account at [DeepSeek](https://chat.deepseek.com/).
-    2. Open the developer tools in your browser and navigate to the Network tab.
-    3. Send a random message to a chat model (either the coder or chat model).
-    4. Search for the completion request in the Network tab and copy the `Authorization` token, omitting the `Bearer` prefix.
+    - Create an account at [DeepSeek](https://chat.deepseek.com/).
+    - Open the developer tools in your browser and navigate to the Network tab.
+    - Send a random message to a chat model (either the coder or chat model).
+    - Search for the completion request in the Network tab and copy the `Authorization` token, omitting the `Bearer` prefix.
 
 4. **Start the Server:**
 
