@@ -10,7 +10,6 @@ Welcome to **DeepSeek-API-Server**! This project provides a scalable API server 
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Endpoints](#endpoints)
 
 ---
 
