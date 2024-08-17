@@ -53,7 +53,7 @@ To set up DeepSeek-API-Server on your local machine, follow these steps:
 2. **Install Dependencies:**
 
     ```bash
-    npm install
+    npm install express axios dotenv
     ```
 
 3. **Configure Environment Variables:**
