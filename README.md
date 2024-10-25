@@ -43,7 +43,7 @@ To set up DeepSeek-API-Server on your local machine, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/DeepSeek-API-Server.git
+    git clone https://github.com/AltairYT0/DeepSeek-API-Server.git
     cd DeepSeek-API-Server
     ```
 
@@ -93,7 +93,7 @@ curl -X POST http://localhost:3000/api/v1/chat/completions \
 -d '{
     "model": "deepseek_code",
     "request": {
-        "message": "Hello, how are you?"
+        "message": "Hello World!"
     }
 }'
 ```
